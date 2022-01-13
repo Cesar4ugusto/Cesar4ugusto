@@ -1,8 +1,26 @@
-### Hey, my name is César Augusto.
+### Hey guys, my name is César Augusto.
 
-<hr/>
+##
 
 ###### Full Stack Web Javascript Developer
+
+:heavy_check_mark: - 💻 Enthusiastic developer.
+
+:heavy_check_mark: - ☕ I work best with coffee kk.
+
+:heavy_check_mark: - 💬 I think, then I create another project...
+
+:heavy_check_mark: - 🤓 All the free time spent studying and programming is never a waste of time.
+
+:heavy_check_mark: - 🎉 Happiness in every little achievement.
+
+:heavy_check_mark: - 🎮 Video games and rest for the necessary hours.
+
+:heavy_check_mark: - 🎬 Movies whenever possible.
+
+##
+
+#### Meet some stacks I work with:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
