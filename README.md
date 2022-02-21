@@ -49,4 +49,8 @@
 
 ##
 
+![César Augusto ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Cesar4ugusto&custom_title=César%20Contribution%20Graph&theme=dracula&hide_border=true)
+
+ ##
+
 ![Snake animation](https://github.com/Cesar4ugusto/Cesar4ugusto/blob/output/github-contribution-grid-snake.svg)
