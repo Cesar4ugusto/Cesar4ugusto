@@ -8,15 +8,10 @@
 
 :heavy_check_mark: - ☕ I work best with coffee kk.
 
-:heavy_check_mark: - 💬 I think, then I create another project...
-
 :heavy_check_mark: - 🤓 All the free time spent studying and programming is never a waste of time.
-
-:heavy_check_mark: - 🎉 Happiness in every little achievement.
 
 :heavy_check_mark: - 🎮 Video games and rest for the necessary hours.
 
-:heavy_check_mark: - 🎬 Movies whenever possible.
 
 ##
 
