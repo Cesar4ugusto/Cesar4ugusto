@@ -2,7 +2,7 @@
 
 ##
 
-###### Full Stack Web Javascript Developer
+###### Full Stack Web Developer
 
 :heavy_check_mark: - 💻 Enthusiastic developer.
 
