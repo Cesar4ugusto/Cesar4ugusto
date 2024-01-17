@@ -29,14 +29,6 @@
   <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
 </div>
 
-##
-
-<div >
-  <a href="https://github.com/Cesar4ugusto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar4ugusto&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-  </a>
-</div>
-
  ##
 
 ![Snake animation](https://github.com/Cesar4ugusto/Cesar4ugusto/blob/output/github-contribution-grid-snake.svg)
